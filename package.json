@@ -5,5 +5,8 @@
   "main": "index.js",
   "author": "mrpan",
   "license": "MIT",
-  "repository": "https://github.com/mapbox/yarn-test.git"
+  "repository": "https://github.com/mapbox/yarn-test.git",
+  "dependencies": {
+    "geojson-vt": "^2.4.0"
+  }
 }
