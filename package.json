@@ -1,0 +1,9 @@
+{
+  "name": "yarn-test",
+  "version": "1.0.0",
+  "description": "first use yarn",
+  "main": "index.js",
+  "author": "mrpan",
+  "license": "MIT",
+  "repository": "https://github.com/mapbox/yarn-test.git"
+}
